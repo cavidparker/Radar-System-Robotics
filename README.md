@@ -10,11 +10,11 @@ If you remember, I have already used the Processing Application in one of the ea
 
 
 # Hardware:
-Arduino UNO
-HC-SR04 Ultrasonic Sensor  
-TowerPro SG90 Servo Motor 
-Mounting Bracket for Ultrasonic Sensor (optional) 
-Connecting Wires 
-Jumper Cables 
-5V Power Supply 
-USB Cable (for Arduino)  
+-Arduino UNO
+-HC-SR04 Ultrasonic Sensor  
+-TowerPro SG90 Servo Motor 
+-Mounting Bracket for Ultrasonic Sensor (optional) 
+-Connecting Wires 
+-Jumper Cables 
+-5V Power Supply 
+-USB Cable (for Arduino)  
