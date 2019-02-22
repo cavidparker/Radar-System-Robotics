@@ -6,7 +6,6 @@ Even though the title says Arduino Radar Project, technically the project is bas
 # Project Overview:
 The Arduino Radar Project is more of a visual project than it is a circuit implementation. Of course, I will be using different hardware like Arduino UNO, HC-SR04 Ultrasonic Sensor and a Servo Motor but the main aspect is the visual representation in the Processing Application.
 
-If you remember, I have already used the Processing Application in one of the earlier Arduino Projects involving MPU-6050 Sensor. I suggest you to take a look at that project before proceeding (you don’t have to actually implement the project but understand the way it is implemented).
 
 
 # Hardware:
