@@ -11,7 +11,7 @@ The Arduino Radar Project is more of a visual project than it is a circuit imple
 # Hardware:
 -Arduino UNO
 -HC-SR04 Ultrasonic Sensor  
--TowerPro SG90 Servo Motor 
+-Servo Motor 
 -Mounting Bracket for Ultrasonic Sensor (optional) 
 -Connecting Wires 
 -Jumper Cables 
